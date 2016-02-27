@@ -7,13 +7,13 @@ Video Ejemplo http://imgur.com/aAKhO8x
 
 Este repo incluye los estilos y el codigo js para ir cambiandolo
 
-Ayudanos a terminarlo ! >>>
+### Ayudanos a terminarlo ! >>>
 
-Proximos pasos 
+### Proximos pasos 
 - Armar plugin de chrome que se active solo con Facebook.
 
 
-
+### Creditos
 - Idea original: @herniewise
 - Hackeo de sabado a la mañana: @tincho_for_ever
 
