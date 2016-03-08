@@ -1,19 +1,19 @@
 # Vamo a Calmarno Reaction
-## Un simple reemplazador Facebook Reaction  Angry al meme "Vamo a Calmarno"
 
-<img src="https://pbs.twimg.com/media/CcKGTOiWoAAN7tA.jpg">
+> Un simple reemplazador Facebook Reaction  Angry al meme "Vamo a Calmarno".
 
-Video Ejemplo http://imgur.com/aAKhO8x 
+![Example](example.gif)
 
-Este repo incluye los estilos y el codigo js para ir cambiandolo
+## Ayudanos a terminarlo!
 
-### Ayudanos a terminarlo ! >>>
+### Proximos pasos
 
-### Proximos pasos 
-- Armar plugin de chrome que se active solo con Facebook.
+- [x] Armar plugin de chrome que se active solo con Facebook.
+- [ ] Actualizar icono de acuerdo al estado del plugin (on/off).
+- [ ] Optimizar código.
 
+## Creditos
 
-### Creditos
-- Idea original: @herniewise
-- Hackeo de sabado a la mañana: @tincho_for_ever
-
+- Idea original: [@herniewise](https://twitter.com/herniewise).
+- Hackeo de sabado a la mañana: [@tincho_for_ever](https://twitter.com/tincho_for_ever).
+- Implementación de plugin de Google Chrome: [@anoobcoder](http://twitter.com/anoobcoder).
