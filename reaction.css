@@ -1,14 +1,13 @@
 /* Reeescribe el popup */
 ._iuz.anger {
-    background-image: url('http://i.imgur.com/zg2eb92.png');
+  background-image: url(chrome-extension://__MSG_@@extension_id__/reaction.png) !important;
+  background-size: cover !important;
 }
 
 /* Reescribe las reacciones */
-
-._2p79.anger, ._2p7a.anger {
-    background-image: url('http://i.imgur.com/zg2eb92.png');
-    background-size: contain;
+._2p79.anger,
+._2p7a.anger {
+  background-image: url(chrome-extension://__MSG_@@extension_id__/reaction.png) !important;
+  background-size: contain !important;
+  background-position: 0 0 !important;
 }
-
-
-

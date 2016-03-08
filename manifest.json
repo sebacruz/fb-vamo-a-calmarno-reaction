@@ -1,0 +1,27 @@
+{
+  "name": "VAMO A CALMARNO!",
+  "version": "0.0.0",
+  "description": "Un simple reemplazador Facebook Reaction Angry al meme “Vamo a Calmarno”.",
+  "manifest_version": 2,
+  "icons": {
+    "128": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.facebook.com/*"],
+      "js": ["reaction.js"],
+      "css": ["reaction.css"]
+    }
+  ],
+  "permissions": [
+    "tabs",
+    "https://www.facebook.com/*"
+  ],
+  "web_accessible_resources": [
+    "reaction.png"
+  ],
+  "page_action": {
+    "default_icon": "reaction.png",
+    "default_title": "Vamo a Calmarno!"
+  }
+}
